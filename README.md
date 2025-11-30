@@ -1,7 +1,5 @@
 <div align="center">
 
-<hl style="color:#20b2AA;">Sistema de Banco de dados - Loja de Esportes </h1>
-
 <h3> Projeto Acadêmico - Faculdade Cruzeiro do Sul</h3>
 
 <div align="center">
